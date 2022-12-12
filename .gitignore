@@ -1,0 +1,6 @@
+*.egg-info/
+.cache/
+dist/
+doc/.idea/
+__pycache__
+gmcache
